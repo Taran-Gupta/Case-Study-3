@@ -27,6 +27,12 @@ DS4002_Project1/
 │   ├── Data Processing.ipynb
 │   ├── EDA_1.ipynb
 │   └── EDA_2.ipynb
+│   
+├── Supplemental Material/
+│   ├── How to Recognize and Report Spam Text Messages _ Consumer Advice.htm
+│   ├── How to spot a scam email, text message or call _ National Cyber Security Centre.htm
+│   ├── Using CountVectorizer for NLP feature extraction _ IBM.htm
+│   └── Using CountVectorizer to Extracting Features from Text - GeeksforGeeks.htm
 │
 └── OUTPUT/
     ├── Additional Features Output.pdf
