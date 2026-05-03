@@ -14,6 +14,8 @@ DS4002_Project1/
 │
 ├── README.md
 ├── LICENSE.md
+├── CS3 Rubric.pdf
+├── CS3 Hook.pdf
 │
 ├── DATA/
 │   ├── spam.csv
