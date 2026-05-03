@@ -1,4 +1,7 @@
-# DS4002_Project1
+# Case Study 3
+
+The purposes of this repository is to guide 2nd year students in completing a spam-detection model using text-based data. An outline of the required software can be found in section 1. Section 2 contains the repositories organization and files, while section 3 provides in-depth steps on reproducability. This likely would be removed if a student were to actually complete this project, but is currently included in order to comply with the CS3 rubric, which states that everything required for MI3 should be included (which includes steps for reproducability). 
+
 ## Section 1: Software and platform section
 - Type of Software: Integrated Development Environment (IDE) / Interactive Computing Platform / Web-based notebook environment
 - Packages installed: (ADD!!!)
