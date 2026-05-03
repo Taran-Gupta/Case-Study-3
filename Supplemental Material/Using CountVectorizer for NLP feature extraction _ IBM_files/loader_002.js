@@ -1,0 +1,1 @@
+(function () {var s = document.createElement('script');s.id = 'unified-chat-legacy-embed';s.src = 'https://1.www.s81c.com/cognitive-tooling-unified-chat/v1/webchat.bundle.js';s.defer = true;document.head.appendChild(s);})();
